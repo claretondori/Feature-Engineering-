@@ -1,6 +1,6 @@
 # Housing Price Prediction: Testing Different Encoding Methods
 
-This project focuses on predicting house prices using an Ames Housing dataset and a **Linear Regression** model. The main goal is to test **seven different categorical encoding methods** to see how they affect the model's accuracy, data shape, and processing speed.
+This project focuses on predicting house prices using Housing dataset and a **Linear Regression** model. The main goal is to test **seven different categorical encoding methods** to see how they affect the model's accuracy, data shape, and processing speed.
 
 ---
 
